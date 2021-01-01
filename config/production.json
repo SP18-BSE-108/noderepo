@@ -1,0 +1,4 @@
+{
+  "db": "mongodb+srv://samran12345:12345@cluster0.yolfo.mongodb.net/productscrud?retryWrites=true&w=majority",
+  "jwtPrivateKey": "SomePrivateKey"
+}
